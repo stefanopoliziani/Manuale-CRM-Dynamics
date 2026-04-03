@@ -1,4 +1,3 @@
-# Manuale-CRM-Dynamics
 flowchart TD
     %% Nodi di avvio
     Start(Avvio Processo Aziendale) --> Origine{Qual è l'origine della Trattativa?}
