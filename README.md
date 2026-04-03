@@ -1,0 +1,2 @@
+# Manuale-CRM-Dynamics
+manuale
